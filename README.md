@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Minju%20Kim%20&fontColor=000&desc=hamcoder-min&descAlign=70&descAlignY=68](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Minju%20Kim%20&fontColor=E0DE6C&desc=hamcoder-min&descAlign=88&descAlignY=62&reversal=false&fontAlignY=38&fontAlign=78))
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Minju%20Kim%20&fontColor=E0DE6C&desc=hamcoder-min&descAlign=88&descAlignY=62&reversal=false&fontAlignY=38&fontAlign=78)
 
 
 <div align=center><h2> 📚Stack🖥️ </h2></div>
@@ -21,6 +21,5 @@
   <br>
 </div>
 
-<div align=center>
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=hamcoder-min&theme=blueberry&locale=ko)](https://git.io/streak-stats)
-</div>
