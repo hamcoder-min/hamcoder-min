@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Minju's%20github%20&fontColor=E0DE6C&desc=hamcoder-min&descAlign=88&descAlignY=62&reversal=false&fontAlignY=38&fontAlign=78)
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Minju's%20GitHub&fontColor=778899&desc=hamcoder-min&descAlign=88&descAlignY=62&reversal=false&fontAlignY=38&fontAlign=69)
 
 
 <div align=center>
