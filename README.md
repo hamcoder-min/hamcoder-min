@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Minju%20Kim%20&fontColor=000&desc=hamcoder-min&descAlign=70&descAlignY=68)
 
 
-<div align=center><h2>📚Stack🖥️</h2></div>
+<div align=center><h2> 📚Stack🖥️ </h2></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -21,5 +21,6 @@
   <br>
 </div>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamcoder-min&theme=blueberry&locale=ko)](https://git.io/streak-stats)
+<div align=center>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=hamcoder-min&theme=blueberry&locale=ko)](https://git.io/streak-stats)
+</div>
