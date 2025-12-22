@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Minju%20Kim%20&fontColor=E0DE6C&desc=hamcoder-min&descAlign=88&descAlignY=62&reversal=false&fontAlignY=38&fontAlign=78)
+![header](https://capsule-render.vercel.app/api?type=speech&height=200&color=gradient&text=Minju's%20github%20&fontColor=E0DE6C&desc=hamcoder-min&descAlign=88&descAlignY=62&reversal=false&fontAlignY=38&fontAlign=78)
 
 
-<div align=center><h2> 📚Stack🖥️ </h2>
-
+<div align=center>
+  
+  <h2> 📚 Stack 🖥️ </h2>
 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
