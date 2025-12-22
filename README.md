@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Minju%20Kim%20&fontColor=000&desc=hamcoder-min&descAlign=70&descAlignY=64)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Minju%20Kim%20&fontColor=000&desc=hamcoder-min&descAlign=70&descAlignY=64)
 
 
 <div align=left><h2>📚 사용한 기술</h2></div>
