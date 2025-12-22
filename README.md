@@ -22,4 +22,4 @@
 </div>
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=hamcoder-min&theme=blueberry&locale=ko)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamcoder-min)](https://github.com/anuraghazra/github-readme-stats)
