@@ -21,5 +21,8 @@
   <br>
 </div>
 
+<br>
+<div align=center>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamcoder-min)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamcoder-min)](https://github.com/anuraghazra/github-readme-stats)
